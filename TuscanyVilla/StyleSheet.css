@@ -1,0 +1,103 @@
+﻿body {
+
+}
+
+.navbar#navbarSettings {
+    background-color: #474E5D;
+ 
+    
+}
+/*
+
+    this is to get text overlay on images in grid
+*/
+
+
+.navbarset{
+    padding: 0px 0px 0px 0px;
+}
+
+.jumbotron#mainLogo {
+    color: white;
+    font-family: 'Quicksand', sans-serif;
+    text-align: initial;
+    background-image: url('Content/Images/pool-villa.jpg');
+    background-size:cover;
+    margin: 0px;
+    padding-top: 0px;
+    height: 347px;
+}
+
+#secondLogo {
+    height: 100%;
+    margin: 0px;
+   padding:0px;
+}
+
+.imageRight {
+    text-align: right;
+}
+
+#secondJumbotron {
+    background-color: #474E5D;
+    padding: 0px;
+    margin: 0px;
+    color: white;
+    font-family: 'Quicksand', sans-serif;
+    text-align: center;
+}
+
+#locations {
+    background-color: white; 
+    color: #474E5D;
+    font-family: 'Quicksand', sans-serif;
+    margin-left: 18px;
+}
+
+#mountian {
+    padding-left: 10px;
+}
+
+
+
+
+
+div#locationsTwo.row {
+     background-color: #474E5D;
+     color: white;
+     font-family: 'Quicksand', sans-serif;
+}
+
+div#locationsThree.row {
+    background-color: white;
+    color: #474E5D;
+    font-family: 'Quicksand', sans-serif;
+}
+
+#poolhouse {
+    border: none;
+}
+
+.thumbnail {
+    padding: 0px 0px 0px 0px;
+}
+
+#locationsThree {
+    background-color: white; 
+    color: #474E5D;
+    font-family: 'Quicksand', sans-serif;
+    margin-left: 18px;
+}
+#thirdJumbotron {
+    background-color: #474E5D;
+    color: white;
+     font-family: 'Quicksand', sans-serif;
+     text-align: center;
+
+}
+
+div.row.row6 div.col-lg-12 {
+    background-color:#474E5D;
+    color:white;
+    text-align:center;
+}
